@@ -38,3 +38,6 @@ cp ./shuttle.json ~/.shuttle.json
 https://github.com/fitztrev/shuttle
 
 http://www.chiark.greenend.org.uk/~sgtatham/putty/
+
+Another putty to ssh converter, primary for linux users:
+https://github.com/GameScripting/putty2ssh
